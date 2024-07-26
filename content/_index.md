@@ -18,7 +18,7 @@ Outside of the computer/technology space, things that interest me include
 * Car Tuning
 * Fitness/Excercise
 * Mechanical keyboards (I originally learned PCB design and circuits by building them from scratch)
-* Guitar/Audio Gear
+* Guitar and Audio Gear
 
 \
 Feel free to contact me through the email link at the top of the website.
