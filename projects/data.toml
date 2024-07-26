@@ -1,0 +1,25 @@
+[[project]]
+name = "BBQScoutingApp"
+desc = "A frontend and mobile app for Team 2714's Robotics Scouting Software"
+tags = ["frontend", "robotics"]
+links = [
+  {name = "site", url = "https://alxv07.github.io/BBQScoutingPass/"},
+  {name = "github", url = "https://github.com/AlxV07/BBQScoutingPass"},
+]
+[[project]]
+name = "rust-6502"
+desc = "[WIP] - emulating the 6502 microprocessor in Rust"
+tags = ["lowlevel", "emulation", "rust"]
+links = [ {name = "github", url = "https://github.com/amuseee/rust-6502"}, ]
+[[project]]
+name = "pixel art dungeon crawler"
+desc = "A 16x16 pixel art dungeon crawler made in Javascript for Sprig, a handheld console by Hackclub"
+tags = ["gamedev", "javascript"]
+links = [ {name = "site", url = "https://sprig.hackclub.com/gallery/froggo_s_dungeon_adventures"}, ]
+[[project]]
+name = "competitive-programming"
+desc = "Various Competitive Programming solutions written in C++"
+tags = ["c++"]
+links = [
+        {name = "github", url = "https://github.com/amuseee/competitive-programming"},
+]
